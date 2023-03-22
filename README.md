@@ -5,7 +5,7 @@ Inside your project, you'll see the following useful folders and files:
 ```
 /
 ├── public/
-│   └── favicon.svg
+│   └── favicon-36X36.svg
 ├── src/
 │   ├── components/
 │   │   └── Navigation.astro
