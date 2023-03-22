@@ -41,4 +41,4 @@ OpenGraph images are procedurally generated from the `src/pages/images` folder. 
 
 ## 📝 License
 
-Manual is licensed under the [MIT License](LICENSE).
+Template is licensed under the [MIT License](LICENSE).
