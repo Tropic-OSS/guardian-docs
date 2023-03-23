@@ -6,7 +6,7 @@ Guardian is a Discord bot designed to simplify the management of Minecraft serve
 
 ## Operating System
 
-You can run guardian on all operating systems that node can run on, it is recommended that you consult your operating systems way of installing the dependencies above as we will be using Ubuntu 22.04 for a guide.
+Guardian can be run on any operating system that supports Node. However, it is recommended that you refer to your specific operating system's instructions for installing the dependencies. For the purposes of this guide, we will be using Ubuntu 22.04 as an example.
 
 ## Technologies
 
