@@ -12,7 +12,6 @@ export const SITE_DEFAULT_OG_IMAGE = "/assets/guardian.png";
 export const SIDEBAR_ITEMS = {
   "Getting Started": [
     "/docs/getting-started/introduction",
-    "/docs/getting-started/installation",
     "/docs/getting-started/mod",
   ],
   Configuration: [
@@ -20,6 +19,7 @@ export const SIDEBAR_ITEMS = {
     "/docs/config/config-file",
     "/docs/config/mod-config-file",
   ],
+  Hosting: ["/docs/hosting/self-hosting", "/docs/hosting/pterodactyl"],
   Usage: ["/docs/usage/usage"],
   Maintenance: ["/docs/maintenance/maintenance"],
   Support: ["/docs/support/support"],
