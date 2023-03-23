@@ -10,10 +10,13 @@ export const SITE_DEFAULT_OG_IMAGE = "/assets/guardian.png";
 // Define the left sidebar items here.
 // The path should match the folder name in src/content/docs/
 export const SIDEBAR_ITEMS = {
-  "Get Started": [
-    "/docs/get-started/introduction",
-    "/docs/get-started/installation",
+  "Getting Started": [
+    "/docs/getting-started/introduction",
+    "/docs/getting-started/installation",
   ],
-  Tutorials: ["/docs/tutorials/build-x"],
-  Guides: ["/docs/guides/migrate-from-z"],
+  Configuration: ["/docs/configuration/configuration"],
+  Usage: ["/docs/usage/usage"],
+  Maintenance: ["/docs/maintenance/maintenance"],
+  Support: ["/docs/support/support"],
+  Conclusion: ["/docs/conclusion/conclusion"],
 };
