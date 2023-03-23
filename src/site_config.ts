@@ -13,8 +13,13 @@ export const SIDEBAR_ITEMS = {
   "Getting Started": [
     "/docs/getting-started/introduction",
     "/docs/getting-started/installation",
+    "/docs/getting-started/mod",
   ],
-  Configuration: ["/docs/config/discord", "/docs/config/config-file"],
+  Configuration: [
+    "/docs/config/discord",
+    "/docs/config/config-file",
+    "/docs/config/mod-config-file",
+  ],
   Usage: ["/docs/usage/usage"],
   Maintenance: ["/docs/maintenance/maintenance"],
   Support: ["/docs/support/support"],
