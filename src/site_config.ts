@@ -14,7 +14,7 @@ export const SIDEBAR_ITEMS = {
     "/docs/getting-started/introduction",
     "/docs/getting-started/installation",
   ],
-  Configuration: ["/docs/configuration/configuration"],
+  Configuration: ["/docs/config/discord", "/docs/config/config-file"],
   Usage: ["/docs/usage/usage"],
   Maintenance: ["/docs/maintenance/maintenance"],
   Support: ["/docs/support/support"],
