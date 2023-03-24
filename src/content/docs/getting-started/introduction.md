@@ -4,6 +4,11 @@ title: Introduction
 
 Guardian is a Discord bot designed to simplify the management of Minecraft server applications, interviews, and whitelist management. Guardian makes it easy for server admins to handle incoming applications from players and automate the interview process. Guardian helps you schedule interviews, ask predefined questions, and collect answers from applicants. It also streamlines the process of adding approved players to your whitelist.
 
+### Link to Guardian
+
+https://github.com/BiteCodeLabs/guardian
+
+
 ## Operating System
 
 Guardian can be run on any operating system that supports Node. However, it is recommended that you refer to your specific operating system's instructions for installing the dependencies. For the purposes of this guide, we will be using Ubuntu 22.04 as an example.
