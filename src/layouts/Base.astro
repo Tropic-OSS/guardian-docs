@@ -55,5 +55,18 @@ const {
   <body class="dark:bg-zinc-900 scroll-smooth dark:[color-scheme:dark]">
     <Navigation/>
 		<slot/>
+    <section>
+      <div id="bottom-banner" tabindex="-1" class="fixed bottom-0 left-0 z-50 flex justify-between w-full p-4 border-t border-gray-200 bg-gray-50 dark:bg-gray-700 dark:border-gray-600">
+        <div class="flex items-center mx-auto">
+            <p class="flex items-center text-sm font-normal text-gray-400 dark:text-gray-300">
+                <span class="inline-flex p-1 mr-3">
+                  <svg fill="#d42b2b" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 478.125 478.125" xml:space="preserve" stroke="#d42b2b"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <g> <circle cx="239.904" cy="314.721" r="35.878"></circle> <path d="M256.657,127.525h-31.9c-10.557,0-19.125,8.645-19.125,19.125v101.975c0,10.48,8.645,19.125,19.125,19.125h31.9 c10.48,0,19.125-8.645,19.125-19.125V146.65C275.782,136.17,267.138,127.525,256.657,127.525z"></path> <path d="M239.062,0C106.947,0,0,106.947,0,239.062s106.947,239.062,239.062,239.062c132.115,0,239.062-106.947,239.062-239.062 S371.178,0,239.062,0z M239.292,409.734c-94.171,0-170.595-76.348-170.595-170.596c0-94.248,76.347-170.595,170.595-170.595 s170.595,76.347,170.595,170.595C409.887,333.387,333.464,409.734,239.292,409.734z"></path> </g> </g> </g> </g></svg>
+                  <span class="sr-only">Warning</span>
+                </span>
+                <span>We are actively working on the Guardian and its documentation to ensure that it meets the highest standards of quality and usability. Rest assured that our team is dedicated to providing a comprehensive and reliable solution that will meet your needs. Thank you for your patience as we continue to make improvements and updates.</span>
+            </p>
+        </div>
+    </div>
+    </section>
 	</body>
 </html>
